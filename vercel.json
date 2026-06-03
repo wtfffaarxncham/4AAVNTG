@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/4aavntg-store.html" }
+  ]
+}
